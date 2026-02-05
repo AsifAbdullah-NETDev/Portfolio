@@ -1,4 +1,5 @@
 import Section from "@/components/Section";
+import { Github, Linkedin, Mail } from "lucide-react";
 
 export default function ContactPage() {
   return (
